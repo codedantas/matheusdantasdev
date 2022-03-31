@@ -4,8 +4,8 @@
 
 Graduando em Ciência da Computação pela Universidade Federal da Paraíba e Desenvolvedor Frontend com experiência em:
 
-![react](https://img.shields.io/badge/react%20-%0230e76a8.svg?&style=for-the-badge&logo=react&logoColor=%230e76a8)
-![javascript](https://img.shields.io/badge/javascript%20-%23ED145B.svg?&style=for-the-badge&logo=javascript&logoColor=%2320232a)
+<!--![react](https://img.shields.io/badge/react%20-%0230e76a8.svg?&style=for-the-badge&logo=react&logoColor=%230e76a8)
+![javascript](https://img.shields.io/badge/javascript.svg?&style=for-the-badge&logo=javascript&logoColor=%2320232a)
 ![html5](https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%23ED145B)
 ![css3](https://img.shields.io/badge/css%20-%23ED145B.svg?&style=for-the-badge&logo=css3&logoColor=%2320232a)
 
@@ -19,7 +19,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Paraíba e De
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/odantasdev?color=1DA1F2&label=odantasdev&logo=Twitter&logoColor=1DA1F2&style=for-the-badge)]
 (https://twitter.com/odantasdev)
-
+-->
 ---
 <!--
 **matheusdantasdev/matheusdantasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
